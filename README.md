@@ -1,24 +1,14 @@
 # Main files
 
+**RCode_..**: Main data analysis and plotting code.
 
+**asv_table.csv**: ASV abundance table, with ASVs annotated as cyanobacteria, chloroplasts, mitochondria, and other non-heterotrophic bacterial targets removed. The copy numbers of each ASV have been corrected using the rrnDB database and normalized.
 
-**RCode_..**    Main data analysis and plotting code.
+**taxonomy.csv**: ASV taxonomic annotation table, recording the classification of each ASV at the phylum, class, order, family, genus, and species levels.
 
+**asv_seq.tre**: Phylogenetic tree file for ASVs, constructed using the representative 16S sequences of each ASV.
 
-
-**asv_table.csv**    ASV abundance table, with ASVs annotated as cyanobacteria, chloroplasts, mitochondria, and other non-heterotrophic bacterial targets removed. The copy numbers of each ASV have been corrected using the rrnDB database and normalized.
-
-
-
-**taxonomy.csv**    ASV taxonomic annotation table, recording the classification of each ASV at the phylum, class, order, family, genus, and species levels.
-
-
-
-**asv_seq.tre**    Phylogenetic tree file for ASVs, constructed using the representative 16S sequences of each ASV.
-
-
-
-**env_table.csv**    Environmental factor table, including:  
+**env_table.csv**: Environmental factor table, including:  
 
     sample_id: Sample name
     
