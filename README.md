@@ -1,3 +1,5 @@
+**Data and analysis codes of the manuscript "Liu Y, et al. 2025. Coupling between bacterial phylogenetic diversity and heterotrophic productivity in a coastal ecosystem affected by estuarine plumes, ISME Communications, 5(1), ycaf102, doi:10.1093/ismeco/ycaf102".**
+
 # Main files
 
 **RCode_..**: Main data analysis and plotting code.
